@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAFavorCompositionOverInheritance", "CAFavorCompositionOverInheritance\CAFavorCompositionOverInheritance.csproj", "{2D5C066E-AAA9-40B6-BEE8-43E0E7346E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5C066E-AAA9-40B6-BEE8-43E0E7346E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5C066E-AAA9-40B6-BEE8-43E0E7346E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5C066E-AAA9-40B6-BEE8-43E0E7346E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5C066E-AAA9-40B6-BEE8-43E0E7346E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0C893B-BD19-48B7-AD06-2518A2DE9963}
+	EndGlobalSection
+EndGlobal
